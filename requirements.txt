@@ -1,0 +1,4 @@
+google-genai>=1.50
+pillow>=10.1
+numpy
+python-dotenv>=1.0

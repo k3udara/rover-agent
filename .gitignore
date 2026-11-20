@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# API keys (copy .env.example to .env)
+.env
+.env.*
+!.env.example
+
+# Trip recordings and pictures saved on your machine
+runs/
+
+# Output of scripts/export_print_signs.py
+print/
+
+# Webots per-user window state
+.*.wbproj
+
+# OS and editors
+.DS_Store
+._*
+Thumbs.db
+.vscode/
+.idea/
